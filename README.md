@@ -1,14 +1,19 @@
 # FLASHING-OF-LEDS-WITH-LPC-1768
 
 # AIM: 
+
    To interface and toggle the led with ARM LPC 1768 microprocessor           
            
 # COMPONENTS REQUIRED:
 ##  HARDWARE:
 ARM LPC1768
+
 LED
+
 ## SOFTWARE:
+
 KEIL MICRO VISION 4.0 IDE
+
 # PROCEDURE:
 
 ⮚	Open the Keil software and select the New uvision project from Project Menu as shown below.
@@ -88,9 +93,11 @@ int main()
 }
 ```
 # Output:
+
 <img width="900" height="651" alt="Screenshot 2025-11-11 141607" src="https://github.com/user-attachments/assets/5a6a92ae-5e1e-455f-a91d-a042a1a8f342" />
 
 # Result:
+
 Thus a LED is interfaced with ARM LPC 1768 Microprocessor and its blinking was verified sucessfully.
 
 
